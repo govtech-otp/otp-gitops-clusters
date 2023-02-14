@@ -15,8 +15,8 @@ powerState: Running
 # Cloud Provider Configuration
 provider:
   region: eastus
-  baseDomain: azure01.ibmdojo01.com
-  resource_group: dojo-dns-zones
+  baseDomain: gta.az.techzone.ibm.com
+  resource_group: techzone-dns
   sshPublickey: 
 
 # Compute Resources to be used for Masters and Workers
